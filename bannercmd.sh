@@ -1,2 +1,2 @@
 #!/bin/bash
-banner -w 30 agu
+sudo systemctl $1 apache2
